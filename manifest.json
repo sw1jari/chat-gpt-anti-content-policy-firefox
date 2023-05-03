@@ -1,0 +1,16 @@
+{
+  "description": "This extension block text content from getting flagged or blocked by the filter.",
+  "name": "Chat GPT anti censorship",
+  "version": "2.2",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://chat.openai.com/*",
+    "*://api.openai.com/*"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}

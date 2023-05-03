@@ -1,0 +1,2 @@
+# Chat GPT Anti-Censorship Firefox Extension
+This Firefox extension blocks text content from getting flagged or blocked by filters in the Chat GPT platform. It is a port of the original [ChatGPT-Moderation-Blocker](https://github.com/Beat-YT/ChatGPT-Moderation-Blocker) Chrome extension by [Beat-YT](https://github.com/Beat-YT).
